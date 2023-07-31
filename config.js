@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ -ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ ᴊꜱ-ʙᴏᴛ'
 global.premium = 'true'
 global.packname = 'JS┃ᴮᴼᵀ' 
 global.author = '@Jehan' 
